@@ -1,4 +1,4 @@
-package com.dozenflow.dozenflow_be;
+package com.dozenflow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

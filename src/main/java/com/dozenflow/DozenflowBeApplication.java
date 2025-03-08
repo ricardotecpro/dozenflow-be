@@ -1,4 +1,4 @@
-package com.dozenflow.dozenflow_be;
+package com.dozenflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
