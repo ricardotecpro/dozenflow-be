@@ -19,7 +19,6 @@ import java.util.stream.Collectors;
 @RestController
 @RequestMapping("/api/tasks")
 @Tag(name = "Task API", description = "API for managing tasks in the Kanban board")
-@CrossOrigin(origins = "http://localhost:4200") // Permite requisições do frontend Angular
 public class TaskController {
 
     private final TaskService taskService;

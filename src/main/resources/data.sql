@@ -1,4 +1,0 @@
-INSERT INTO tasks (title, description, status, task_order) VALUES ('#1: Configurar Projeto', 'Inicializar o repositório e configurar os projetos backend e frontend.', 'CONCLUIDA', 0);
-INSERT INTO tasks (title, description, status, task_order) VALUES ('#2: API de Tarefas', 'Desenvolver todos os endpoints CRUD para as tarefas no backend.', 'EM_ANDAMENTO', 0);
-INSERT INTO tasks (title, description, status, task_order) VALUES ('#3: UI do Kanban', 'Criar os componentes Angular para exibir o quadro e as colunas.', 'A_FAZER', 0);
-INSERT INTO tasks (title, description, status, task_order) VALUES ('#4: Drag and Drop', 'Implementar a funcionalidade de arrastar e soltar com o Angular CDK.', 'A_FAZER', 1);
